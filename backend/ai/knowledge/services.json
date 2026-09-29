@@ -1,0 +1,10 @@
+{
+  "wifi": { "available": true, "cost": "free", "details": "High-speed Wi-Fi is available throughout the property at no extra charge." },
+  "parking": { "available": true, "cost": "free", "details": "Complimentary on-site parking is available for all guests." },
+  "breakfast": { "available": true, "cost": "included", "details": "A complimentary breakfast buffet is served daily from 7:00 AM to 10:30 AM." },
+  "roomService": { "available": true, "hours": "24/7", "details": "Room service is available around the clock." },
+  "swimmingPool": { "available": true, "hours": "6:00 AM - 10:00 PM", "details": "An outdoor swimming pool is open daily." },
+  "gym": { "available": true, "hours": "24/7", "details": "A fitness center is accessible to guests at all times." },
+  "airportShuttle": { "available": false, "details": "StayEase does not currently offer an airport shuttle service." },
+  "laundry": { "available": true, "cost": "paid", "details": "Laundry and dry-cleaning services are available for an additional fee." }
+}

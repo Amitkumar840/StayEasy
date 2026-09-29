@@ -1,0 +1,10 @@
+{
+  "hotelName": "StayEase",
+  "checkInTime": "2:00 PM",
+  "checkOutTime": "11:00 AM",
+  "cancellationPolicy": "Bookings can be cancelled free of charge any time before check-in. Refunds for paid bookings are processed within 5-7 business days.",
+  "petPolicy": "Pets are not currently allowed on the property.",
+  "smokingPolicy": "StayEase is a smoke-free property. Smoking is only permitted in designated outdoor areas.",
+  "idRequirement": "A valid government-issued photo ID is required at check-in for all guests.",
+  "childPolicy": "Children of all ages are welcome. Extra bedding for children can be requested via special requests at booking."
+}

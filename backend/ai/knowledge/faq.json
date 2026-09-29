@@ -1,0 +1,12 @@
+[
+  { "question": "What time is check-in?", "answer": "Check-in time is 2:00 PM." },
+  { "question": "What time is check-out?", "answer": "Check-out time is 11:00 AM." },
+  { "question": "Do you have free Wi-Fi?", "answer": "Yes, high-speed Wi-Fi is available throughout the property at no extra charge." },
+  { "question": "Is parking available?", "answer": "Yes, complimentary on-site parking is available for all guests." },
+  { "question": "Is breakfast included?", "answer": "Yes, a complimentary breakfast buffet is served daily from 7:00 AM to 10:30 AM." },
+  { "question": "Can I cancel my booking?", "answer": "Yes, bookings can be cancelled free of charge any time before check-in." },
+  { "question": "Are pets allowed?", "answer": "Pets are not currently allowed on the property." },
+  { "question": "Do you have a swimming pool?", "answer": "Yes, an outdoor swimming pool is open daily from 6:00 AM to 10:00 PM." },
+  { "question": "Is the hotel smoke-free?", "answer": "Yes, StayEase is a smoke-free property, with smoking permitted only in designated outdoor areas." },
+  { "question": "What ID do I need at check-in?", "answer": "A valid government-issued photo ID is required at check-in for all guests." }
+]
